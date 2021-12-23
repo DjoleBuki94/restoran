@@ -10,7 +10,7 @@
           <div class="container">
             <div class="white-color text-center">
               <h1 class="kaushan-font letter-spacing-0">Dobrodošli<br>Restoran Drinska Priča</h1>
-              <h5 class="source-font">Sa vama od 2019.</h5>
+              <h5 class="source-font">Sa vama od 2021.</h5>
                 <p class="text-center mt-30"><a class="btn btn-light btn-md btn-default remove-margin" href="/meni"><span>Pogledajte naš meni</span></a> </p>
             </div>
           </div>
