@@ -812,7 +812,7 @@ nav.navbar.bootsnav.navbar-transparent.brand-center .navbar-brand {
 }
 
 .logo img {
-    max-height: 33px;
+    max-height: 55px;
 	-webkit-transition: all .5s ease;
     transition: all .5s ease;
     display: block;
@@ -3831,6 +3831,10 @@ ul.footer-gallery li img {
 .logo-footer {
 	height: 34px;
     margin-bottom: 30px;
+}
+.footer-logo {
+    max-height: 100px !important;
+    height: 80px;
 }
 
 .contact-widget.widget ul li {
