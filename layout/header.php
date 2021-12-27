@@ -9,6 +9,8 @@
 <link rel="stylesheet" href="assets/css/master.css">
 <link rel="stylesheet" href="assets/css/responsive.css">
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+<!--fancybox-->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" />
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar">
 
@@ -47,11 +49,11 @@
       <!--=== Collect the nav links, forms, and other content for toggling ===-->
       <div class="collapse navbar-collapse" id="navbar-menu">
         <ul class="nav navbar-nav navbar-right" data-in="fadeIn" data-out="fadeOut">
-          <li><a class="page-scroll" href="/">Početna</a></li>
-          <li><a class="page-scroll" href="/o-nama">O nama</a></li>
-          <li><a class="page-scroll" href="/meni">Meni</a></li>
-          <li><a class="page-scroll" href="/galerija">Galerija</a></li>
-          <li><a class="page-scroll" href="/kontakt">Kontakt</a></li>
+          <li><a class="page-scroll" href="/restoran/">Početna</a></li>
+          <li><a class="page-scroll" href="/restoran/o-nama.php">O nama</a></li>
+          <li><a class="page-scroll" href="/restoran/meni.php">Meni</a></li>
+          <li><a class="page-scroll" href="/restoran/galerija.php">Galerija</a></li>
+          <li><a class="page-scroll" href="/restoran/kontakt.php">Kontakt</a></li>
         </ul>
       </div>
       <!--=== /.navbar-collapse ===-->

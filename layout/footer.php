@@ -62,7 +62,7 @@
             </ul>
           </div>
           <div class="col-md-6 col-xs-12">
-            <div class="copy-right text-right">© 2017 Grandy. All rights reserved</div>
+            <div class="copy-right text-right">© <?php echo date('Y'); ?> Restoran Drinska Priča.</div>
           </div>
         </div>
       </div>
@@ -79,6 +79,8 @@
 <script src="assets/js/smoothscroll.js"></script>
 <script src="assets/js/plugins.js"></script>
 <script src="assets/js/master.js"></script>
+<!--fanczbox-->
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
 <!--=== Javascript Plugins End ===-->
 
 </body>

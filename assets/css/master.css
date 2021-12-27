@@ -766,6 +766,20 @@ section {
     margin: auto;
 }
 
+/*=============================================
+                    Custom css
+=============================================*/
+.rounded {
+    width: 100%;
+    border-radius: 5px;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+
+}
+.p-t-5 {
+    padding-top: 5%;
+}
 
 /*=============================================
               		Header
@@ -5049,7 +5063,7 @@ section.big-block .client-logo {
 	background-repeat:no-repeat;
 	background-position:center center;
     position: relative;
-    min-height: 550px;
+    min-height: 370px;
 }
 .title-hero-bg::before {
     content: "";
