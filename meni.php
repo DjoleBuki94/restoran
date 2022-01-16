@@ -1,7 +1,7 @@
 <?php include('layout/header.php'); ?>
   
   <!--=== page-title-section start ===-->
-  <section class="title-hero-bg parallax-effect" style="background-image: url(assets/images/slides/title-bg-20.jpg);">
+  <section class="title-hero-bg parallax-effect" style="background-image: url(assets/images/drinska-prica/header/meni-header.jpg);">
     <div class="container">
       <div class="page-title text-center white-color">
         <h1>Meni</h1>

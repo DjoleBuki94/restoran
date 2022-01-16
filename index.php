@@ -4,13 +4,13 @@
 
 <section class="home-slider" id="home">
     <div class="full-screen-bg">
-        <div class="parallax-img parallax-effect" style="background: url(assets/images/slides/home-bg-15.jpg) center center / cover scroll no-repeat;"></div>
+        <div class="parallax-img parallax-effect" style="background: url(assets/images/drinska-prica/header/slider.jpg) center center / cover scroll no-repeat;"></div>
         <div class="hero-text-wrap">
             <div class="hero-text white-color fade-center-text">
                 <div class="container">
                     <div class="white-color text-center">
                         <h1 class="kaushan-font letter-spacing-0">Dobrodošli<br>Restoran Drinska Priča</h1>
-                        <h5 class="source-font">Sa vama od 2021.</h5>
+                        <h5 class="source-font">Sa vama od 2019.</h5>
                         <p class="text-center mt-30"><a class="btn btn-light btn-md btn-default remove-margin" href="/meni"><span>Pogledajte naš meni</span></a> </p>
                     </div>
                 </div>
@@ -24,11 +24,11 @@
 <!--=== Welcome Start ======-->
 <section class="white-bg" id="about">
     <div class="col-md-6 col-sm-4 bg-flex bg-flex-right">
-        <div class="bg-flex-holder bg-flex-cover" style="background-image: url(assets/images/bg-right-img-2.jpg);"></div>
+        <div class="bg-flex-holder bg-flex-cover" style="background-image: url(assets/images/drinska-prica/slike/o-nama-home.jpg);"></div>
     </div>
     <div class="container">
         <div class="col-md-5 col-sm-7 text-center">
-            <h1 class="mb-0 kaushan-font orange-color font-70px">Since 1896</h1>
+            <h1 class="mb-0 kaushan-font orange-color font-70px">Sa vama od 2019</h1>
             <h2 class="mt-10 text-uppercase font-700 letter-spacing-10">Our Story</h2>
             <div class="mt-30">
 
@@ -49,13 +49,13 @@
         <div class="row">
             <div class="col-md-8 text-center col-md-offset-2">
                 <h1 class="mb-0 kaushan-font orange-color font-70px">Share the Love</h1>
-                <h2 class="mt-10 text-uppercase font-700 letter-spacing-10 white-color">Menu</h2>
+                <h2 class="mt-10 text-uppercase font-700 letter-spacing-10 white-color">Meni</h2>
             </div>
         </div>
 
         <div class="row mt-50">
             <div class="col-md-6">
-                <img src="assets/images/gallery/gallery-img.jpg" alt="gallery" />
+                <img src="assets/images/drinska-prica/slike/riba.jpg" alt="gallery" />
             </div>
             <div class="col-md-6">
                 <div class="circle-content-box pt-50 pr-50 pb-50 pl-50 mt-80">
@@ -152,7 +152,7 @@
             </div>
 
             <div class="col-md-6">
-                <img src="assets/images/gallery/gallery-img-2.jpg" alt="gallery" />
+                <img src="assets/images/drinska-prica/slike/meso.jpg" alt="gallery" />
             </div>
 
         </div>
@@ -160,7 +160,7 @@
 
         <div class="row mt-50">
             <div class="col-md-6">
-                <img src="assets/images/gallery/gallery-img-3.jpg" alt="gallery" />
+                <img src="assets/images/drinska-prica/slike/palacinke.jpg" alt="gallery" />
             </div>
             <div class="col-md-6">
                 <div class="circle-content-box pt-50 pr-50 pb-50 pl-50 mt-80">
